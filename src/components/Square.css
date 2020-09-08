@@ -1,0 +1,11 @@
+.buttons {
+  background-color: rgb(10, 170, 250);
+  font-size: 2em;
+  font-family: Comic Sans MS;
+  text-shadow: 0px 1px 3px black;
+  color: rgb(171, 227, 255);
+}
+
+.win {
+  border: 5px solid black;
+}
